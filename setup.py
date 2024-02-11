@@ -1,8 +1,5 @@
-import ez_setup
+
 from setuptools import setup, find_packages
-
-
-ez_setup.use_setuptools()
 
 setup(
     name = 'django-sstatic',
